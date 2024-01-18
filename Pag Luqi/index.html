@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<title>Web Luqi</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="normalize.css">
+</head>
+
+<body>
+<!-- Menu encabezado --->
+<div class="contenedor-header">
+	<header>
+		<div class="logo">
+			<a href="#inicio">Lucas</a>
+		</div>
+		<nav id="nav" class="responsive">
+			<ul>
+				<li><a href="#sobremi" onclick="seleccionar()">SOBRE MI</a></li>
+				<li><a href="#skills" onclick="seleccionar()">SKILLS</a></li>
+				<li><a href="#curriculum" onclick="seleccionar()">CURRICULUM</a></li>
+				<li><a href="#portfolio" onclick="seleccionar()">PORTFOLIO</a></li>
+				<li><a href="#contacto" onclick="seleccionar()">CONTACTO</a></li>
+			</ul>
+		</nav>
+		<div class="nav-responsive" onclick="mostrarOcultarMenu()">
+			<i class="fa-solid fa-bars"></i>
+		</div>
+	</header>
+</div>
+
+<!-- Seccion Portfolio -->
+<section id="portfolio" class="portfolio">
+	<div class="contenido-seccion">
+	<!--	<h2>PORTFOLIO</h2> por ahora no me interesa -->
+		<div class="galeria">
+			<div class="proyecto" onclick="modal()">
+				<img src=paisaje1.jpg>
+						<div class="modal-container" id="modal_container">
+							<div class="modal">
+								<h1>Trabajo en constructora</h1>
+								<img src="fondo.png">
+								<p>Trabajo con un amigo para bla bla bla</p>
+							</div>
+						</div>
+				<div class="overlay">
+					<h3>Constructora</h3>
+					<p>Fotografía</p>
+				</div>
+			</div>
+			<div class="proyecto" onclick="modal3()">
+				<img src=paisaje2.jpg>
+						<div class="modal-container2" id="modal_container2">
+							<div class="modal">
+								<h1>Trabajo en frigorifico</h1>
+								<img src="fondo.png">
+								<p>Trabajo propio para bla bla bla</p>	
+							</div>
+						</div>
+				<div class="overlay">
+					<h3>Frigorifico</h3>
+					<p>Fotografía</p>
+				</div>
+			</div>
+			<div class="proyecto" onclick="modal5()">
+				<img src=paisaje3.jpg>
+						<div class="modal-container3" id="modal_container3">
+							<div class="modal">
+								<h1>Trabajo en frigorifico</h1>
+								<img src="fondo.png">
+								<p>Esta pag la hice para blabla bla bla bla</p>	
+							</div>
+						</div>
+				<div class="overlay">
+					<h3>Esta web</h3>
+					<p>Fotografía</p>
+				</div>
+				<div class="mas">
+					<h3>Ver más</h3>
+				</div>
+			</div>
+		</div>
+	</div>	
+</section>
+
+
+</body>

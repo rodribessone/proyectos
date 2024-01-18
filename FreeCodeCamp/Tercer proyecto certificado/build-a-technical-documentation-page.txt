@@ -1,0 +1,200 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <nav id="navbar">
+      <header class="titulo">Guia para tramitar la ciudadania italiana</header>
+      <ul>
+        <li><a href="#Inicio" class="nav-link">Inicio</a></li>
+        <li><a href="#Requisitos" class="nav-link">Requisitos</a></li>
+        <li><a href="#Proceso" class="nav-link">Proceso</a></li>
+        <li><a href="#Documentación" class="nav-link">Documentación</a></li>
+        <li><a href="#Calculadora_de_ascendencia" class="nav-link">Calculadora de ascendencia</a></li>
+        <li><a href="#Preguntas_frecuentes" class="nav-link">Preguntas frecuentes</a></li>
+        <li><a href="#Recursos" class="nav-link">Recursos</a></li>
+        <li><a href="#Blog" class="nav-link">Blog</a></li>
+        <li><a href="#Acerca_de_nosotros" class="nav-link">Acerca de nosotros</a></li>
+        <li><a href="#Contacto" class="nav-link">Contacto</a></li>
+      </ul>
+    </nav>
+    <main id="main-doc">
+      <section id="Inicio" class="main-section">
+        <header>Inicio</header>
+        <p>Bienvenidos a esta página dedicada a explicar el proceso para obtener la ciudadanía italiana por descendencia. Si tienes raíces italianas y estás interesado en adquirir la ciudadanía de este hermoso país, has llegado al lugar correcto. Aquí encontrarás toda la información necesaria, desde los requisitos y documentos necesarios, hasta los pasos a seguir y los plazos estimados. Mi objetivo es guiarte en este camino, brindándote una guía clara y detallada para que puedas realizar el proceso de manera exitosa. ¡Comencemos juntos esta emocionante aventura hacia la ciudadanía italiana!</p>
+      </section>
+      <section id="Requisitos" class="main-section">
+        <header>Requisitos</header>
+        <p> Requisitos para obtener la ciudadanía italiana:</p>
+        <ol>
+<li>Ser mayor de edad: Debes tener al menos 18 años para solicitar la ciudadanía italiana.</li>
+<li>Ascendencia italiana: Debes tener un vínculo directo con un antepasado italiano. Esto puede ser a través de tu padre, madre, abuelo o abuela. También puedes calificar si tu antepasado italiano es tu bisabuelo o bisabuela, pero en este caso, debes demostrar que nunca se renunció a la ciudadanía italiana.</li>
+<li>Documentación: Debes recopilar y presentar una serie de documentos que prueben tu ascendencia italiana. Esto incluye certificados de nacimiento, matrimonio y defunción de tus antepasados italianos, así como documentos que demuestren la relación familiar entre tú y tu antepasado italiano.</li>
+<li>Certificado de no renuncia: Si alguno de tus antepasados italianos emigró a otro país, debes obtener un certificado de no renuncia a la ciudadanía italiana. Esto demuestra que tu antepasado no renunció a su ciudadanía italiana al convertirse en ciudadano de otro país.</li>
+<li>Pago de tarifas: Debes pagar las tarifas correspondientes al proceso de solicitud de ciudadanía italiana. Estas tarifas pueden variar y es importante verificar los costos actualizados antes de iniciar el proceso.
+</li>
+</ol>
+<span>Es importante tener en cuenta que los requisitos pueden variar ligeramente dependiendo de la situación individual de cada persona. Se recomienda consultar con la embajada o consulado italiano más cercano para obtener información precisa y actualizada sobre los requisitos específicos para solicitar la ciudadanía italiana.</span>
+<br><br>
+          <code></code>
+          <code></code>
+          <code></code>
+          <code></code>
+          <code></code>
+      </section>
+      <section id="Proceso" class="main-section">
+        <header>Proceso</header>
+        <p>
+La ciudadanía italiana es un proceso que permite a los descendientes de italianos obtener la nacionalidad italiana. A continuación, se detalla el proceso paso a paso para solicitar y obtener la ciudadanía italiana.</p>
+<ol>
+<li>Investigación genealógica:
+<ul><li>Es necesario investigar y recopilar toda la información posible sobre los antepasados italianos y sus descendientes directos.</li>
+<li>Se pueden utilizar registros civiles, censos, árboles genealógicos, documentos familiares, entre otros recursos, para obtener información precisa.</li></ul></li><br>
+<li>Recopilación de documentos:
+<ul><li>Acta de nacimiento del antepasado italiano: Se debe obtener una copia del acta de nacimiento del antepasado italiano, que demuestre su vínculo con Italia.</li>
+<li>Certificados de matrimonio y defunción: Si existen, se deben recopilar los certificados de matrimonio y defunción de los antepasados italianos y sus descendientes directos.</li>
+<li>Documentos de identidad: Se deben reunir documentos de identidad de los solicitantes, como pasaportes, cédulas de identidad, etc.</li>
+<li>Documentos adicionales: Pueden requerirse otros documentos, como certificados de naturalización, para demostrar la continuidad de la línea de descendencia.</li></ul></li><br>
+<li>Legalización y traducción de documentos:
+<ul><li>Todos los documentos recopilados deben ser legalizados y traducidos al italiano por un traductor certificado.</li>
+<li>La legalización se realiza en el país de origen de los documentos, generalmente a través del Ministerio de Relaciones Exteriores o la embajada italiana.</li></ul></li>
+<span>La legalización es lo que llamamos apostillar, deben apostillarse todos los documentos cuando se tienen, traducirlos, y despues apostillar tambien las traducciones.</span><br>
+<br>
+<li>Presentación de la solicitud:
+<ul><li>La solicitud de ciudadanía italiana debe presentarse en el consulado italiano correspondiente al lugar de residencia del solicitante.</li>
+<li>Se deben adjuntar todos los documentos legalizados y traducidos, así como el formulario de solicitud completo.</li></ul></li><br>
+<li>Revisión y aprobación:
+<ul><li>El consulado italiano revisará la solicitud y los documentos adjuntos para verificar la legibilidad del solicitante.</li>
+<li>Puede ser necesario proporcionar información adicional o realizar entrevistas para respaldar la solicitud.</li></ul></li><br>
+<li>Obtención de la ciudadanía:
+<ul><li>Una vez aprobada la solicitud, se emitirá un decreto de concesión de la ciudadanía italiana.</li>
+<li>El solicitante deberá realizar una ceremonia de juramento o declaración de lealtad para completar el proceso y obtener oficialmente la ciudadanía italiana.</li></ul>
+</li>
+</li><br>
+<span>Conclusión:</span>
+<p class="conclusion">El proceso para obtener la ciudadanía italiana implica investigar la genealogía familiarm recopilar y legalizar una serie de documentos, presentar la solicitud en el consulado italiano y cumplir con los requisitos establecidos. Una vez aprobada la solicitud, se realiza una ceremonia de juramento para finalizar el proceso y obtener la ciudadanía italiana.</p>
+      </section>
+      <section id="Documentación" class="main-section">
+        <header>Documentación</header>
+        <p>La documentación necesaria para realizar la ciudadanía italiana varía dependiendo de la situación y los antecedentes familiares de cada individuo. Sin embargo, a continuación se detallan los documentos comunes que generalmente se requieren:</p>
+        <ol>
+<li>Certificado de nacimiento: Debe obtenerse el certificado de nacimiento del solicitante, el cual debe ser emitido por el registro civil del lugar de nacimiento. Este certificado debe estar apostillado o legalizado, dependiendo de los requisitos del país donde se solicite la ciudadanía.</li>
+<li>Certificado de matrimonio: Si el solicitante está casado, debe presentar el certificado de matrimonio emitido por el registro civil correspondiente. Al igual que el certificado de nacimiento, este documento debe estar apostillado o legalizado.</li>
+<li>Certificado de defunción: En caso de que uno de los antepasados italianos haya fallecido, se debe presentar el certificado de defunción correspondiente. También debe estar apostillado o legalizado.</li>
+<li>Documentos de identidad: Es necesario presentar una copia del pasaporte o documento de identidad vigente del solicitante.</li>
+<li>Documentos de antepasados italianos: Se deben recopilar los documentos que prueben la ascendencia italiana del solicitante, como certificados de nacimiento, matrimonio y defunción de los antepasados italianos. Estos documentos deben ser apostillados o legalizados.</li>
+<li>Certificado de antecedentes penales: Es posible que se solicite un certificado de antecedentes penales del país de residencia del solicitante. Este documento debe estar actualizado y apostillado o legalizado.</li>
+<li>Pruebas de residencia: Dependiendo de las leyes y regulaciones italianas, es posible que se requiera presentar pruebas de residencia en Italia, como contratos de alquiler, facturas de servicios públicos o estados de cuenta bancarios.</li>
+<li>Fotografías: Se deben proporcionar fotografías recientes del solicitante, generalmente en formato pasaporte.</li>
+</ol>
+<p>Es importante tener en cuenta que estos son solo algunos de los documentos comunes requeridos y que los requisitos pueden variar según la situación individual. Se recomienda contactar a la embajada o consulado italiano correspondiente para obtener información precisa y actualizada sobre los documentos necesarios para solicitar la ciudadanía italiana.</p>
+      </section>
+      <section id="Calculadora_de_ascendencia" class="main-section">
+        <header>Calculadora de ascendencia</header>
+        <p></p>
+      </section>
+      <section id="Preguntas_frecuentes" class="main-section">
+        <header>Preguntas frecuentes</header>
+        <p></p>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </section>
+      <section id="Recursos" class="main-section">
+        <header>Recursos</header>
+        <p></p>
+      </section>
+      <section id="Blog" class="main-section">
+        <header>Blog</header>
+        <p></p>
+      </section>
+      <section id="Acerca_de_nosotros" class="main-section">
+        <header>Acerca de nosotros</header>
+        <p></p>
+      </section>
+      <section id="Contacto" class="main-section">
+        <header>Contacto</header>
+        <p></p>
+      </section>
+    </main>
+    <div class="verde"></div>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media (max-width: 1199px) and (min-width: 769px) {
+  #main-doc {
+    width: 33%;
+  }
+}
+body {
+  background-color: #ffffff;
+  margin: 0;
+  display: flex;
+}
+#navbar {
+  background-color: #ff0000;
+  width: 33%;
+  height: 100%;
+  font-size: 30px;
+  padding: 20px 10px -20px 10px;
+  position: fixed;
+  color: #ffffff;
+}
+#navbar li {
+  list-style: none;
+  padding: 15px;
+  margin: 0 0 0 25px;
+  border-bottom: 1px solid #ffffff;
+}
+#navbar li a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.titulo {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+#main-doc {
+
+  width: 33%;
+  height: 100%;
+  position: absolute;
+  left: 33%;
+  padding-left: 20px;
+  z-index: 1;
+}
+.verde {
+  background-color: #66cc66;
+  width: 33%;
+  height: 100%;
+  position: fixed;
+  left: 69%;
+}
+main section header {
+  font-weight: bold;
+  font-size: 25px;
+}
+span {
+  font-weight: bold;
+}
+.conclusion {
+  margin-top: 0;
+}
+
+
+** end of undefined **
+

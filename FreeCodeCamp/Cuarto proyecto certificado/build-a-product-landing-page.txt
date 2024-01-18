@@ -1,0 +1,180 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header id="header">
+      <img id="header-img" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/agriculture-logo-design-template-8e3bd9017b68af24720bf9b32afae987_screen.jpg?ts=1629395704">
+      <nav id="nav-bar">
+        <a class="nav-link" href="#intro">Gabriel Bessone</a>
+        <a class="nav-link" href="#servicios">Servicios</a>
+        <a class="nav-link" href="#contacto">Contacto</a>
+      </nav>
+    </header>
+    <section id="intro">
+      <div class="intro">
+        <div class="introp">Bienvenido a la plataforma virtual de Gabriel Bessone, tu aliado confiable en el ámbito de contratista rural. Con una sólida trayectoria en el sector, Gabriel Bessone se ha destacado como un profesional dedicado y apasionado por ofrecer servicios de alta calidad en el campo agrícola. Especializado en labores fundamentales como siembra, fumigación y diversas actividades agrícolas, nuestro equipo se compromete a brindar soluciones integrales que impulsen el éxito de tu proyecto. Descubre la experiencia y el compromiso de Gabriel Bessone, donde la excelencia en el trabajo se combina con un profundo conocimiento del campo para llevar a cabo proyectos rurales de manera eficiente y efectiva. ¡Confía en nosotros para hacer crecer tus cosechas y optimizar tu producción agrícola!</div>
+      <iframe id="video" src="https://www.shutterstock.com/shutterstock/videos/1093880387/preview/stock-footage-aerial-view-of-crop-sprayer-spraying-pesticide-on-a-soybean-field-at-sunset-drone-shot-flying-over.webm"></iframe>
+      </div>
+    </section>
+    <section id="servicios">
+      <div class="servicios">
+        <div class="s1"><h2>Siembra</h2>
+        <img class="s1img" src="https://www.pregonagropecuario.com/assets/images/upload/z_semadradora_desde_el_dron.jpg">
+        <p>Bienvenido a nuestra página web, donde la innovación y la excelencia se encuentran en cada rincón. Sumérgete en un mundo de soluciones agrícolas de vanguardia, y descubre nuestro destacado servicio de siembra rural. En la búsqueda constante de maximizar la productividad y asegurar cosechas abundantes, nuestro equipo de expertos en agricultura se enorgullece de ofrecer un servicio de siembra eficiente y preciso. Desde la elección de semillas hasta la implementación en el campo, nos comprometemos a proporcionar un proceso integral que potencie tu producción agrícola. Descubre cómo transformamos la tierra en un terreno fértil para el crecimiento y el éxito. ¡Bienvenido a una nueva era de siembra rural con resultados extraordinarios!</p></div>
+        <div class="s1"><h2>Fulmigacion</h2>
+        <img class="s1img" src="https://www.deere.com.ar/assets/images/region-3/products/nutrient-application/sprayer-M4030/456anw_M4030_01_large_cfb2817c711b2fd09832fa872fce11803d5f9065.jpg">
+        <p>Explora las alturas de la excelencia agrícola en nuestra página web, donde el servicio de fumigación rural se destaca como un pilar fundamental. Enfocados en proteger tus cultivos y asegurar su salud, nuestro equipo de expertos en fumigación rural utiliza tecnologías de punta y métodos especializados para combatir plagas y enfermedades. Desde pequeñas parcelas hasta extensas áreas de cultivo, nos comprometemos a brindar una cobertura completa y eficiente para salvaguardar tu inversión agrícola. Descubre cómo transformamos los desafíos en oportunidades, proporcionando un servicio de fumigación que garantiza la vitalidad de tus cultivos y el éxito sostenido de tu proyecto agrícola. ¡Bienvenido a una nueva era de protección y prosperidad en la agricultura!</p>
+        </div>
+        <div class="s1"><h2>Rollos</h2>
+        <img class="s1img" src="https://www.deere.com/assets/images/region-3/products/hay-and-forage/round-balers/9-series/469/empacadora_469_campo1_large_61ed72ceced94edeaa8a01fd35b2808040ce5c9f.jpg">
+        <p>Bienvenido a nuestra plataforma virtual, donde la excelencia agrícola se encuentra con el cuidado del ganado. Explora nuestro destacado servicio de hacer surcos para la alimentación del ganado, diseñado para optimizar la producción y garantizar la salud de tus animales. Con maquinaria especializada y un enfoque meticuloso, creamos surcos estratégicos que facilitan la distribución eficiente de forraje y cultivos destinados a la alimentación animal. Desde la planificación hasta la ejecución, nuestro servicio está comprometido con la mejora continua de tus prácticas ganaderas. Descubre cómo transformamos el terreno para ofrecer una solución integral que promueva la salud y el bienestar de tu ganado. Bienvenido a una nueva era de eficiencia y prosperidad en la alimentación del ganado con nuestro servicio de hacer surcos.</p>
+        </div>
+      </div>
+    </section>
+    <section id="contacto">
+    <div class="contacto">
+    <h1>Contactenos</h1>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <label for="email">Correo:<input name="email" id="email" type="email" placeholder="introduzca su email"></label>
+      <label>Sobre que desea informarse:<textarea ></textarea></label>
+      <input type="submit" id="submit">
+    </form>
+    </div>
+    </section>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 1px solid #000000;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url(https://previews.123rf.com/images/belchonock/belchonock1711/belchonock171101825/90496546-iconos-y-campo-en-el-fondo-concepto-de-agricultura-inteligente-y-tecnolog%C3%ADa-moderna.jpg);
+  background-size: cover;
+}
+header {
+  background-color: #000000;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  widht: 100%;
+  height: 6rem;
+  font-size: 25px;
+  align-items: center;
+  z-index: 5;
+}
+#header-img {
+ height: 6rem;
+ width: 10rem;
+}
+#nav-bar {
+  width: 66%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20%;
+}
+#nav-bar a{
+  color: #ffffff;
+  cursor: pointer;
+}
+section {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  padding-top: 100px;
+}
+.intro {
+  display: flex;
+  flex-direction: column;
+  margin: 40px auto;
+  align-items: center;
+  text-align: center;
+  font-size: 25px;
+  max-width: 66%;
+  background-color: #00000077;
+  border-radius: 10px;
+  padding: 5px;
+}
+.introp {
+}
+#video{
+  width: 700px;
+  height: 500px;
+}
+.servicios {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 18px;
+  max-width: 80%;
+}
+.s1{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #00000077;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  width: 33%;
+  color: #ffffff;
+}
+.s1img {
+  width: 300px;
+  height: 250px;
+  margin: 10px;
+  min-width: 300px;
+  min-height: 250px;
+}
+.contacto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  margin: 10px auto;
+  min-width: 66%;
+  font-size: 35px;
+  color: #ffffff;
+}
+#submit {
+  background-color: #00ff00;
+}
+#email{
+  width: 300px;
+  height: 30px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+textarea {
+  font-size: 20px;
+}
+@media only screen and (max-width: 550px) {
+  #nav-bar {
+  width: 66%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20%;
+}
+}
+
+** end of undefined **
+

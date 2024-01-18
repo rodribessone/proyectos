@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1 id="title">OXXA WORD</h1>
+    <p id="description">Bienvenido a la seccion de creacion de personaje.</p> 
+      <form id="survey-form">
+      <div class="form-group datos">    
+          <label id="name-label" for="name">Nombre:<br><input id="name" type="text" placeholder="Introduzca el nombre de su personaje" required></label>
+      </div>
+      <div class="form-group datos"> 
+          <label id="email-label" for="email">Email:<br><input id="email" placeholder="Introduzca un email asociado" type="email" required></label>
+      </div>
+      <div class="form-group datos">
+          <label id="number-label" for="number">Edad:<br><input id="number" placeholder="99" type="number" min="10" max="99"></label>
+      </div>
+      <div class="form-group">
+        <p>Seleccionar genero:</p>
+          <input type="radio" name="recommend" value="Masculino">Masculino
+          <input type="radio" name="recommend" value="Femenino">Femenino
+      </div>
+      <div class="form-group">
+        <p>Nivel de juego:</p>
+          <select id="dropdown">
+            <option>Seleccionar nivel</option>
+            <option>Nivel facil</option>
+            <option>Nivel medio</option>
+            <option>Nivel dificil</option>
+            <option>Nivel Hardcore</option>
+          </select>
+      </div>
+      <div class="form-group">
+        <p>Seleccione la clase del personaje:</p>
+        <select id="dropdown">
+            <option>Guerrero</option>
+            <option>Arquero</option>
+            <option>Asesino</option>
+            <option>Mago</option>
+            <option>Sanador</option>
+          </select>
+        </label>
+      </div>
+      <div class="form-group">
+        <p>Descripción del personaje</p>
+        <textarea rows=5 cols=70>Introduzca una breve descripción del personaje.</textarea>
+      </div>
+      <div class="form-group checkbox">
+          <label>
+            <input name="prefer" type="checkbox" value="News">Deseo recibir información acerca de las noticias de OXXA WORD.
+          </label>
+          <br>
+          <label>
+            <input name="prefer" type="checkbox" value="TyC">Acepto los terminos y condiciones.
+          </label>
+      </div>
+      <div class="form-group">
+        <button id="submit" type="submit" class="submit-button">Registrarse</button>
+      </div>
+    </form>
+  <body>
+</html>

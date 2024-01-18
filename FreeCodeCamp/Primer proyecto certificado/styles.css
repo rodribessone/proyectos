@@ -1,0 +1,56 @@
+body {
+  padding: 50px;
+  background-image: url("https://sm.ign.com/ign_es/screenshot/d/diablo-imm/diablo-immortals-classes_gdps.jpg");
+  background-size: 100%;
+}
+#title {
+  background-color: #77777750;
+  text-align: center;
+  color: #FFFFFF;
+  width: 1200px;
+  margin: auto;
+}
+#description {
+  font-size: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 10px auto;
+}
+form {
+  background-color: #77777750;
+  color: #FFFFFF;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 5px 0;
+  font-family: fantasy;
+  opacity: 0.9
+}
+label, p{
+  font-size: 20px;
+}
+.checkbox {
+ font-family: serif;
+ padding-top: 10px;
+ display: block;
+}
+#submit {
+  background-color: #66cc66;
+  font-size: 20px;
+  padding: 5px 20px;
+  margin: 15px auto;
+}
+.form-group{
+  text-align: center;
+}
+#name, #email, #number{
+  margin:10px 0;
+  text-align: center;
+}
+input[type="text"], input[type="email"], input[type="number"] {
+  width: 300px;
+}
+select {
+  width: 300px;
+  text-align: center;
+  padding: 0;
+}
